@@ -38,142 +38,96 @@ profiles:
     url: https://scholar.google.com/
   # - icon: academicons/orcid
   #   url: https://orcid.org/
-
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S. Air Transportation & Smart Air Mobility
+    institution: Korea Aerospace University
+    date_start: 2022-03-15
+    date_end: 2024-02-11
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      <small>
+      Grade: 4.0/4.5
+      
+      - Thesis on _Trajectory Reconstruction and Prediction for Vectored Area Navigation Arrivals_. Supervised by Dr. Keumjin Lee. 
+
+      [Relevant Coursework:]() Machine Learning, Computer Vision, Engineering Economy, Airport Simulation, Unmanned Aircraft System
+      </small>
+
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: /uploads/seokbinyoon_master_thesis.pdf
+  - area: B.S. Air Transportation
+    institution: Korea Aerospace University
+    date_start: 2020-03-01
+    date_end: 2022-02-15
     summary: |
-      GPA: 3.8/4.0
+      <small>
+      Grade: 3.98/4.5
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+      [Relevant Coursework:]() Air Traffic Management, Air Traffic Control, Probability & Statistics, Aviation Policy, Aviation Meteorology, Flight Operation Planning & Control
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      [License:]() Air Traffic Controller
+      
+      </small>
+    
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Research Assistant
+    company_name: Air Transportation Modeling and Control Laboratory, Korea Aerospace University
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2024-03-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      <small>
 
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+      - Developing multi-agent trajectory model for flight trajectory prediction in terminal airpsace.
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+      - Developing automatic air traffic control speech recognition model.
+
+      - Working on air traffic complexity inference with computer vision method.
+
+      </small>
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: <small> Best Paper of the Session </small>
+    date: '2024-11-01'
+    awarder: AIAA/IEEE Digital Avionics System Conference 2024
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
+      <small>
+      As a coauthor, I contributed to the paper titled <em>"Urban Air Mobility Fleet Rebalancing with Real-Time Updates on Estimated Time of Arrival"</em>, and we were horored with Best of the Session award at the <b>43<sup>rd</sup> IEEE/AIAA Digital Avionics Systems Conference (DASC 2024)</b> in San Diego, CA, USA.
+      </small>
+  - title: <small> President’s Award </small>
+    url: 
+    date: '2024-08-01'
+    awarder: Korea Aerospace University
     summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
+      <small> 
+      At the graduate research competition at Korea Aerospace University, I was hornored with the President's Award for my research on developing a long short-term trajectory prediction model for urban air mobility. 
+      </small>
+  - title: <small> Best Paper of the Session </small>
+    url:
+    date: '2023-10-21'
+    awarder: AIAA/IEEE Digital Avionics System Conference 2023
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      <small>
+      As a coauthor, I contributed to the paper titled <em>"Safety and Capacity Analysis Framework for Integrated UAM Operation in Airports"</em>, and we were horored with Best of the Session award at the <b>42<sup>nd</sup> IEEE/AIAA Digital Avionics Systems Conference (DASC 2023)</b> in Barcelona, Spain.   
+
+      </small>
+  - title: <small> Brain Korea 21 Plus (BK21+) Research Scholarship </small>
+    date: 2022-03-01 
+    awarder: Korean Goverment
+    summary: |
+      <small>
+      Recipient of the <b>Korean Government's merit-based full scholarship</b>.
+      </small>
 ---
 
-## About Me
+## Biography
+I’m a researcher specializing in air traffic management and deep learning, with a strong focus on trajectory modeling, and multi-agent learning. I blog about AI applications for safer and more efficient air traffic systems. I apply a mix of machine learning and deep learning to solve complex problems in avitaion. My research explores how AI can enhance decision-making, improve air traffic operations, and drive the future of autonomous air traffic systems.
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<b>If you’re interested in collaborating or discussing AI in aviation, feel free to reach out! 😃</b>
